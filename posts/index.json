@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "slug": "steinberger-openai-openclaw",
+      "title": "Peter Steinberger ficha por OpenAI: qué significa para OpenClaw y para ti",
+      "description": "El creador de OpenClaw se une a OpenAI para liderar la siguiente generación de agentes personales. OpenClaw pasa a ser una fundación open source.",
+      "date": "2026-02-16",
+      "tags": ["openclaw", "openai", "steinberger", "agentes-autonomos"],
+      "readTime": "5 min"
+    }
+  ]
+}
