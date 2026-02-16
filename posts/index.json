@@ -7,6 +7,30 @@
       "date": "2026-02-16",
       "tags": ["openclaw", "openai", "steinberger", "agentes-autonomos"],
       "readTime": "5 min"
+    },
+    {
+      "slug": "180k-stars-meta-openai-ofertas",
+      "title": "180.000 estrellas en GitHub, ofertas de Meta y OpenAI: la batalla por OpenClaw",
+      "description": "OpenClaw se ha convertido en el proyecto open source de agentes autónomos más popular del mundo. Meta y OpenAI pujaron por adquirirlo.",
+      "date": "2026-02-15",
+      "tags": ["openclaw", "open-source", "meta", "openai"],
+      "readTime": "4 min"
+    },
+    {
+      "slug": "seguridad-openclaw-lo-que-debes-saber",
+      "title": "OpenClaw y seguridad: lo que nadie te cuenta antes de instalar agentes autónomos",
+      "description": "El crecimiento explosivo de OpenClaw ha traído vulnerabilidades críticas. Analizamos los riesgos reales y las medidas que toda empresa debería implementar.",
+      "date": "2026-02-14",
+      "tags": ["openclaw", "seguridad", "vulnerabilidades", "buenas-practicas"],
+      "readTime": "6 min"
+    },
+    {
+      "slug": "openclaw-2026-2-12-seguridad-masiva",
+      "title": "OpenClaw 2026.2.12: la actualización que corrige más de 40 fallos de seguridad",
+      "description": "La nueva versión de OpenClaw parchea vulnerabilidades críticas en hooks, gateway, navegador y canales de mensajería.",
+      "date": "2026-02-13",
+      "tags": ["openclaw", "actualizacion", "seguridad", "changelog"],
+      "readTime": "3 min"
     }
   ]
 }
