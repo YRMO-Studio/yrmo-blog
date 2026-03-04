@@ -1,6 +1,30 @@
 {
   "posts": [
     {
+      "slug": "caso-real-casa-rural-automatizacion-ia",
+      "title": "Caso real: cómo una casa rural automatizó su gestión con IA en una semana",
+      "description": "Carlos tenía una casa rural y cero conocimientos técnicos. En 5 días montamos un sistema de agentes autónomos que gestiona reservas, responde consultas y monitoriza su negocio 24/7.",
+      "date": "2026-03-04",
+      "tags": ["caso-real", "openclaw", "automatización", "pymes", "turismo-rural"],
+      "readTime": "7 min"
+    },
+    {
+      "slug": "primer-agente-ia-espanol-guia",
+      "title": "Cómo crear tu primer agente IA en español: guía práctica con OpenClaw",
+      "description": "Paso a paso para montar un agente autónomo que trabaje por ti. Sin conocimientos previos de programación. Con ejemplos reales y errores comunes que debes evitar.",
+      "date": "2026-03-04",
+      "tags": ["openclaw", "tutorial", "agente-ia", "guía-práctica"],
+      "readTime": "10 min"
+    },
+    {
+      "slug": "que-es-openclaw-automatizar-negocio",
+      "title": "Qué es OpenClaw y cómo puede automatizar tu negocio (explicado sin rodeos)",
+      "description": "OpenClaw es la plataforma de agentes autónomos que más está creciendo en el mundo. Te explicamos qué hace, cómo funciona y por qué debería importarte si tienes un negocio.",
+      "date": "2026-03-04",
+      "tags": ["openclaw", "automatización", "negocio", "guía"],
+      "readTime": "8 min"
+    },
+    {
       "slug": "steinberger-openai-openclaw",
       "title": "Peter Steinberger ficha por OpenAI: qué significa para OpenClaw y para ti",
       "description": "El creador de OpenClaw se une a OpenAI para liderar la siguiente generación de agentes personales. OpenClaw pasa a ser una fundación open source.",
