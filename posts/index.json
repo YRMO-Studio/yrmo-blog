@@ -1,11 +1,210 @@
 {
   "posts": [
     {
+      "slug": "01-que-es-openclaw-guia-completa-2026",
+      "title": "Qué es OpenClaw: Guía completa para empezar en 2026",
+      "description": "*¿Necesitas ayuda para montarlo? En YRMO Studio configuramos agentes OpenClaw para negocios. Desde la instalación hasta la automatización completa. [Contacto](https://yrmostudio.com)*",
+      "date": "2026-03-08",
+      "tags": [
+        "openclaw",
+        "negocio",
+        "tutorial",
+        "seguridad",
+        "costes"
+      ],
+      "readTime": "3 min"
+    },
+    {
+      "slug": "02-agentes-ia-para-negocios-pequenos-espana",
+      "title": "Agentes de IA para negocios pequeños en España: qué son, qué pueden hacer y cuánto cuestan",
+      "description": "*Este artículo está escrito desde la experiencia. En YRMO Studio usamos un agente de IA con 18 automatizaciones activas. No es teoría. Es lo que hacemos cada día.*",
+      "date": "2026-03-08",
+      "tags": [
+        "openclaw",
+        "negocio",
+        "tutorial",
+        "seguridad",
+        "pymes"
+      ],
+      "readTime": "3 min"
+    },
+    {
+      "slug": "03-como-proteger-tu-agente-ia-seguridad-openclaw",
+      "title": "Cómo proteger tu agente de IA: Guía de seguridad para OpenClaw",
+      "description": "*En YRMO Studio, la seguridad es lo primero que configuramos cuando montamos un agente para un cliente. Si necesitas ayuda: [yrmostudio.com](https://yrmostudio.com)*",
+      "date": "2026-03-08",
+      "tags": [
+        "openclaw",
+        "negocio",
+        "tutorial",
+        "seguridad"
+      ],
+      "readTime": "3 min"
+    },
+    {
+      "slug": "04-automatizar-redes-sociales-ia-openclaw-2026",
+      "title": "Cómo automatizar tus redes sociales con IA en 2026: OpenClaw + Buffer",
+      "description": "*¿Quieres montar este sistema para tu negocio? En YRMO Studio lo configuramos llave en mano. [Contacto](https://yrmostudio.com)*",
+      "date": "2026-03-08",
+      "tags": [
+        "openclaw",
+        "negocio",
+        "tutorial",
+        "pymes"
+      ],
+      "readTime": "3 min"
+    },
+    {
+      "slug": "10-casos-uso-reales-agentes-ia-empresas-espana-2026",
+      "title": "10 casos de uso reales de agentes IA para empresas en España (2026)",
+      "description": "## Los agentes IA ya no son ciencia ficción. En España están funcionando.",
+      "date": "2026-03-08",
+      "tags": [
+        "openclaw",
+        "negocio",
+        "tutorial",
+        "pymes",
+        "costes"
+      ],
+      "readTime": "8 min"
+    },
+    {
+      "slug": "agentes-ia-vs-chatbots-diferencias-reales-2026",
+      "title": "Agentes IA vs chatbots: qué son, en qué se diferencian y cuál necesita tu empresa",
+      "description": "## La confusión que le cuesta dinero a las empresas",
+      "date": "2026-03-08",
+      "tags": [
+        "openclaw",
+        "negocio",
+        "tutorial",
+        "pymes",
+        "costes"
+      ],
+      "readTime": "8 min"
+    },
+    {
+      "slug": "automatizar-atencion-cliente-pyme-agente-ia-2026",
+      "title": "Cómo automatizar la atención al cliente de tu pyme con un agente IA (sin perder el toque humano)",
+      "description": "## El mito que hay que romper primero",
+      "date": "2026-03-08",
+      "tags": [
+        "openclaw",
+        "negocio",
+        "tutorial",
+        "pymes",
+        "costes"
+      ],
+      "readTime": "9 min"
+    },
+    {
+      "slug": "como-crear-agente-ia-openclaw-tutorial-paso-a-paso-2026",
+      "title": "Cómo crear tu primer agente IA con OpenClaw: tutorial paso a paso (2026)",
+      "description": "## Qué vas a aprender en este tutorial",
+      "date": "2026-03-08",
+      "tags": [
+        "openclaw",
+        "negocio",
+        "tutorial",
+        "costes"
+      ],
+      "readTime": "3 min"
+    },
+    {
+      "slug": "como-elegir-modelo-ia-empresa-claude-gpt-gemini-2026",
+      "title": "Cómo elegir el modelo de IA correcto para tu empresa: Claude vs GPT vs Gemini (2026)",
+      "description": "## No existe \"el mejor modelo de IA\". Existe el mejor para tu caso.",
+      "date": "2026-03-08",
+      "tags": [
+        "openclaw",
+        "negocio",
+        "tutorial",
+        "seguridad",
+        "pymes"
+      ],
+      "readTime": "7 min"
+    },
+    {
+      "slug": "cuanto-cuesta-agente-ia-empresa-espana-2026",
+      "title": "¿Cuánto cuesta un agente de IA para tu empresa en 2026? Desglose real",
+      "description": "Desglose honesto de lo que cuesta implementar un agente de IA autónomo en una empresa española en 2026. Sin marketing. Solo datos reales.",
+      "date": "2026-03-08",
+      "tags": [
+        "openclaw",
+        "negocio",
+        "seguridad",
+        "pymes",
+        "costes"
+      ],
+      "readTime": "5 min"
+    },
+    {
+      "slug": "errores-comunes-implementar-ia-empresa-espana-2026",
+      "title": "Los 12 errores más comunes al implementar IA en una empresa (y cómo evitarlos)",
+      "description": "## La IA no es un botón mágico. Y muchas empresas lo descubren por las malas.",
+      "date": "2026-03-08",
+      "tags": [
+        "openclaw",
+        "negocio",
+        "tutorial",
+        "seguridad",
+        "costes"
+      ],
+      "readTime": "6 min"
+    },
+    {
+      "slug": "ia-para-pymes-valencianas-guia-practica-2026",
+      "title": "IA para pymes valencianas: guía práctica sin tecnicismos (2026)",
+      "description": "## Por qué una guía específica para negocios valencianos",
+      "date": "2026-03-08",
+      "tags": [
+        "openclaw",
+        "negocio",
+        "tutorial",
+        "seguridad",
+        "pymes"
+      ],
+      "readTime": "7 min"
+    },
+    {
+      "slug": "openclaw-para-freelancers-autonomos-guia-2026",
+      "title": "OpenClaw para freelancers y autónomos: tu segundo cerebro que trabaja 24/7",
+      "description": "## El problema del freelancer: eres bueno en lo tuyo, pero tu negocio necesita más",
+      "date": "2026-03-08",
+      "tags": [
+        "openclaw",
+        "negocio",
+        "tutorial",
+        "pymes",
+        "costes"
+      ],
+      "readTime": "4 min"
+    },
+    {
+      "slug": "openclaw-vs-chatgpt-diferencias-empresa-2026",
+      "title": "OpenClaw vs ChatGPT: ¿Cuál necesita tu empresa en 2026?",
+      "description": "Son herramientas diferentes para problemas diferentes. Te explico cuándo usar cada una, sin humo.",
+      "date": "2026-03-08",
+      "tags": [
+        "openclaw",
+        "negocio",
+        "tutorial",
+        "pymes",
+        "costes"
+      ],
+      "readTime": "4 min"
+    },
+    {
       "slug": "caso-real-casa-rural-automatizacion-ia",
       "title": "Caso real: cómo una casa rural automatizó su gestión con IA en una semana",
       "description": "Carlos tenía una casa rural y cero conocimientos técnicos. En 5 días montamos un sistema de agentes autónomos que gestiona reservas, responde consultas y monitoriza su negocio 24/7.",
       "date": "2026-03-04",
-      "tags": ["caso-real", "openclaw", "automatización", "pymes", "turismo-rural"],
+      "tags": [
+        "caso-real",
+        "openclaw",
+        "automatización",
+        "pymes",
+        "turismo-rural"
+      ],
       "readTime": "7 min"
     },
     {
@@ -13,7 +212,12 @@
       "title": "Cómo crear tu primer agente IA en español: guía práctica con OpenClaw",
       "description": "Paso a paso para montar un agente autónomo que trabaje por ti. Sin conocimientos previos de programación. Con ejemplos reales y errores comunes que debes evitar.",
       "date": "2026-03-04",
-      "tags": ["openclaw", "tutorial", "agente-ia", "guía-práctica"],
+      "tags": [
+        "openclaw",
+        "tutorial",
+        "agente-ia",
+        "guía-práctica"
+      ],
       "readTime": "10 min"
     },
     {
@@ -21,39 +225,64 @@
       "title": "Qué es OpenClaw y cómo puede automatizar tu negocio (explicado sin rodeos)",
       "description": "OpenClaw es la plataforma de agentes autónomos que más está creciendo en el mundo. Te explicamos qué hace, cómo funciona y por qué debería importarte si tienes un negocio.",
       "date": "2026-03-04",
-      "tags": ["openclaw", "automatización", "negocio", "guía"],
+      "tags": [
+        "openclaw",
+        "automatización",
+        "negocio",
+        "guía"
+      ],
       "readTime": "8 min"
     },
     {
       "slug": "steinberger-openai-openclaw",
       "title": "Peter Steinberger ficha por OpenAI: qué significa para OpenClaw y para ti",
-      "description": "El creador de OpenClaw se une a OpenAI para liderar la siguiente generación de agentes personales. OpenClaw pasa a ser una fundación open source.",
+      "description": "El creador de OpenClaw se une a OpenAI para liderar la siguiente generación de agentes personales. OpenClaw pasa a ser una fundación open source. Analizamos qué cambia y qué oportunidades se abren.",
       "date": "2026-02-16",
-      "tags": ["openclaw", "openai", "steinberger", "agentes-autonomos"],
+      "tags": [
+        "openclaw",
+        "openai",
+        "steinberger",
+        "agentes-autonomos"
+      ],
       "readTime": "5 min"
     },
     {
       "slug": "180k-stars-meta-openai-ofertas",
       "title": "180.000 estrellas en GitHub, ofertas de Meta y OpenAI: la batalla por OpenClaw",
-      "description": "OpenClaw se ha convertido en el proyecto open source de agentes autónomos más popular del mundo. Meta y OpenAI pujaron por adquirirlo.",
+      "description": "OpenClaw se ha convertido en el proyecto open source de agentes autónomos más popular del mundo. Meta y OpenAI pujaron por adquirirlo. Steinberger eligió otra cosa.",
       "date": "2026-02-15",
-      "tags": ["openclaw", "open-source", "meta", "openai"],
+      "tags": [
+        "openclaw",
+        "open-source",
+        "meta",
+        "openai"
+      ],
       "readTime": "4 min"
     },
     {
       "slug": "seguridad-openclaw-lo-que-debes-saber",
       "title": "OpenClaw y seguridad: lo que nadie te cuenta antes de instalar agentes autónomos",
-      "description": "El crecimiento explosivo de OpenClaw ha traído vulnerabilidades críticas. Analizamos los riesgos reales y las medidas que toda empresa debería implementar.",
+      "description": "El crecimiento explosivo de OpenClaw ha traído vulnerabilidades críticas. Analizamos los riesgos reales y las medidas que toda empresa debería implementar antes de dar acceso a un agente autónomo.",
       "date": "2026-02-14",
-      "tags": ["openclaw", "seguridad", "vulnerabilidades", "buenas-practicas"],
+      "tags": [
+        "openclaw",
+        "seguridad",
+        "vulnerabilidades",
+        "buenas-practicas"
+      ],
       "readTime": "6 min"
     },
     {
       "slug": "openclaw-2026-2-12-seguridad-masiva",
       "title": "OpenClaw 2026.2.12: la actualización que corrige más de 40 fallos de seguridad",
-      "description": "La nueva versión de OpenClaw parchea vulnerabilidades críticas en hooks, gateway, navegador y canales de mensajería.",
+      "description": "La nueva versión de OpenClaw parchea vulnerabilidades críticas en hooks, gateway, navegador y canales de mensajería. Análisis técnico de los cambios más importantes.",
       "date": "2026-02-13",
-      "tags": ["openclaw", "actualizacion", "seguridad", "changelog"],
+      "tags": [
+        "openclaw",
+        "actualizacion",
+        "seguridad",
+        "changelog"
+      ],
       "readTime": "3 min"
     }
   ]

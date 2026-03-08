@@ -1,0 +1,17 @@
+{
+  "slug": "01-que-es-openclaw-guia-completa-2026",
+  "title": "Qué es OpenClaw: Guía completa para empezar en 2026",
+  "description": "*¿Necesitas ayuda para montarlo? En YRMO Studio configuramos agentes OpenClaw para negocios. Desde la instalación hasta la automatización completa. [Contacto](https://yrmostudio.com)*",
+  "date": "2026-03-08",
+  "author": "YRMO Studio",
+  "tags": [
+    "openclaw",
+    "negocio",
+    "tutorial",
+    "seguridad",
+    "costes"
+  ],
+  "readTime": "3 min",
+  "image": null,
+  "body": "-|-------|\n| OpenClaw (software) | 0€ — open source |\n| Claude Sonnet (modelo IA) | ~20€/mes |\n| Claude Opus (modelo IA) | ~200€/mes (MAX) |\n| Hardware (si ya tienes PC) | 0€ |\n| Raspberry Pi (opcional) | 50-80€ una vez |\n\nEl único coste recurrente es la suscripción al modelo de IA. Para empezar, Sonnet es más que suficiente.\n\n## Casos de uso reales\n\n- **Asistente personal:** agenda, recordatorios, gestión de emails, transcripción de audios\n- **Marketing:** generación de contenido para RRSS, análisis de competidores, SEO\n- **Negocio:** CRM básico, seguimiento de leads, informes semanales, facturación\n- **Desarrollo:** revisión de código, PRs, debugging, documentación\n- **Investigación:** búsqueda y síntesis de información, bases de conocimiento automáticas\n- **Seguridad:** auditorías, backups, monitorización de sistemas\n\n## Comunidad y recursos\n\n- **GitHub:** github.com/openclaw/openclaw (240K+ estrellas)\n- **Documentación:** docs.openclaw.ai\n- **Discord:** discord.com/invite/clawd\n- **Skills:** clawhub.com (habilidades descargables)\n\n## Conclusión\n\nOpenClaw no es para todo el mundo. Requiere comodidad con la terminal, tiempo de configuración, y paciencia. Pero para quien invierte ese tiempo, el resultado es un sistema que trabaja 24/7, crece contigo, y se adapta a lo que necesites.\n\nNo es magia. Es infraestructura. Como montar un servidor web o configurar un CRM. Lo haces una vez, lo mantienes, y te da retorno durante meses.\n\n---\n\n*¿Necesitas ayuda para montarlo? En YRMO Studio configuramos agentes OpenClaw para negocios. Desde la instalación hasta la automatización completa. [Contacto](https://yrmostudio.com)*"
+}

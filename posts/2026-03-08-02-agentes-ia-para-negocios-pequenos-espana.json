@@ -1,0 +1,17 @@
+{
+  "slug": "02-agentes-ia-para-negocios-pequenos-espana",
+  "title": "Agentes de IA para negocios pequeños en España: qué son, qué pueden hacer y cuánto cuestan",
+  "description": "*Este artículo está escrito desde la experiencia. En YRMO Studio usamos un agente de IA con 18 automatizaciones activas. No es teoría. Es lo que hacemos cada día.*",
+  "date": "2026-03-08",
+  "author": "YRMO Studio",
+  "tags": [
+    "openclaw",
+    "negocio",
+    "tutorial",
+    "seguridad",
+    "pymes"
+  ],
+  "readTime": "3 min",
+  "image": null,
+  "body": "-|-------|\n| Software (OpenClaw) | 0€ — open source |\n| Modelo IA (Claude Sonnet) | 20€/mes |\n| Modelo IA (Claude Opus MAX) | 200€/mes |\n| Hardware | Tu ordenador actual |\n| Tiempo de setup | 1-2 semanas |\n\n**Coste mensual: 20-200€/mes** (según el modelo que elijas)\n\nPara la mayoría de negocios, Claude Sonnet a 20€/mes es suficiente para empezar.\n\n### Opción 2: Que te lo monte un profesional\n\nEmpresas como YRMO Studio se dedican a configurar agentes de IA para negocios. El coste depende del alcance:\n\n| Servicio | Rango de precio |\n|----------|----------------|\n| Setup básico (instalación + config + Telegram) | 250-500€ |\n| Setup completo (+ crons + memoria + RRSS + soporte) | 500-1.500€ |\n| Mantenimiento mensual | 100-300€/mes |\n\nEsto se suma al coste del modelo de IA (20-200€/mes).\n\n**Comparado con un empleado:** un administrativo a media jornada en España cuesta 800-1.200€/mes con Seguridad Social. El agente no sustituye a un empleado, pero puede absorber un porcentaje significativo del trabajo repetitivo.\n\n## Para quién funciona y para quién no\n\n### Funciona para:\n\n- **Autónomos y freelancers** que hacen todo solos y necesitan delegar tareas repetitivas\n- **PYMEs de 1-10 personas** sin equipo de marketing, IT, o administración dedicado\n- **Negocios digitales** que generan mucho contenido o gestionan muchos emails\n- **Profesionales técnicos** que disfrutan configurando herramientas\n\n### No funciona para:\n\n- **Negocios que necesitan atención telefónica** — los agentes no atienden llamadas (todavía)\n- **Gente que no quiere tocar tecnología** — hoy requiere cierta comodidad con herramientas digitales\n- **Negocios con procesos muy específicos** que requieren integraciones a medida complejas\n- **Quien espera resultados inmediatos sin esfuerzo** — la configuración lleva tiempo\n\n## El futuro cercano\n\nLo que hoy requiere una semana de configuración, en 6 meses requerirá un día. La barrera técnica baja constantemente. Los modelos mejoran. Las integraciones se multiplican.\n\nSi eres de los que prefieren esperar a que todo sea más fácil: es una estrategia válida. Pero los que empiezan ahora tienen una ventaja: cuando sus competidores descubran esto, ellos ya llevarán meses con el sistema optimizado.\n\n## Cómo empezar\n\nSi quieres probarlo tú mismo:\n1. Visita [docs.openclaw.ai](https://docs.openclaw.ai) — documentación completa en inglés\n2. Sigue la guía de instalación\n3. Empieza con algo simple: un asistente en Telegram que responda preguntas\n\nSi prefieres que te ayuden:\n- YRMO Studio configura agentes de IA para negocios en España\n- Web: [yrmostudio.com](https://yrmostudio.com)\n- Email: hola@yrmostudio.com\n\n---\n\n*Este artículo está escrito desde la experiencia. En YRMO Studio usamos un agente de IA con 18 automatizaciones activas. No es teoría. Es lo que hacemos cada día.*"
+}
